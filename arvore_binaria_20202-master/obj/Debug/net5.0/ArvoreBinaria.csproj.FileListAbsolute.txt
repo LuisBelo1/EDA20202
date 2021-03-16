@@ -1,0 +1,32 @@
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\obj\Debug\net5.0\ArvoreBinaria.csprojAssemblyReference.cache
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\obj\Debug\net5.0\ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\obj\Debug\net5.0\ArvoreBinaria.AssemblyInfoInputs.cache
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\obj\Debug\net5.0\ArvoreBinaria.AssemblyInfo.cs
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\obj\Debug\net5.0\ArvoreBinaria.csproj.CoreCompileInputs.cache
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\bin\Debug\net5.0\ArvoreBinaria.exe
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\bin\Debug\net5.0\ArvoreBinaria.deps.json
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\bin\Debug\net5.0\ArvoreBinaria.runtimeconfig.json
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\bin\Debug\net5.0\ArvoreBinaria.runtimeconfig.dev.json
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\bin\Debug\net5.0\ArvoreBinaria.dll
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\bin\Debug\net5.0\ref\ArvoreBinaria.dll
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\bin\Debug\net5.0\ArvoreBinaria.pdb
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\obj\Debug\net5.0\ArvoreBinaria.dll
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\obj\Debug\net5.0\ref\ArvoreBinaria.dll
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\obj\Debug\net5.0\ArvoreBinaria.pdb
+C:\Users\marcelovidigal\Dropbox\Aulas\Algoritmos e Estruturas de Dados\Labs\C#\ArvoreBinaria\obj\Debug\net5.0\ArvoreBinaria.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\obj\Debug\net5.0\ArvoreBinaria.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\obj\Debug\net5.0\ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\obj\Debug\net5.0\ArvoreBinaria.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\obj\Debug\net5.0\ArvoreBinaria.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\obj\Debug\net5.0\ArvoreBinaria.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\obj\Debug\net5.0\ArvoreBinaria.dll
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\obj\Debug\net5.0\ref\ArvoreBinaria.dll
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\obj\Debug\net5.0\ArvoreBinaria.pdb
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\bin\Debug\net5.0\ArvoreBinaria.exe
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\bin\Debug\net5.0\ArvoreBinaria.deps.json
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\bin\Debug\net5.0\ArvoreBinaria.runtimeconfig.json
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\bin\Debug\net5.0\ArvoreBinaria.runtimeconfig.dev.json
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\bin\Debug\net5.0\ArvoreBinaria.dll
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\bin\Debug\net5.0\ref\ArvoreBinaria.dll
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\bin\Debug\net5.0\ArvoreBinaria.pdb
+C:\Users\Cliente\Desktop\EDA20202\arvore_binaria_20202-master\obj\Debug\net5.0\ArvoreBinaria.genruntimeconfig.cache
