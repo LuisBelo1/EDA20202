@@ -1,0 +1,16 @@
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\bin\Debug\net5.0\atividadeAssincrona4.exe
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\bin\Debug\net5.0\atividadeAssincrona4.deps.json
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\bin\Debug\net5.0\atividadeAssincrona4.runtimeconfig.json
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\bin\Debug\net5.0\atividadeAssincrona4.runtimeconfig.dev.json
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\bin\Debug\net5.0\atividadeAssincrona4.dll
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\bin\Debug\net5.0\ref\atividadeAssincrona4.dll
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\bin\Debug\net5.0\atividadeAssincrona4.pdb
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\obj\Debug\net5.0\atividadeAssincrona4.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\obj\Debug\net5.0\atividadeAssincrona4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\obj\Debug\net5.0\atividadeAssincrona4.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\obj\Debug\net5.0\atividadeAssincrona4.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\obj\Debug\net5.0\atividadeAssincrona4.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\obj\Debug\net5.0\atividadeAssincrona4.dll
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\obj\Debug\net5.0\ref\atividadeAssincrona4.dll
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\obj\Debug\net5.0\atividadeAssincrona4.pdb
+C:\Users\Cliente\Desktop\EDA20202\atividadeAssincrona4\obj\Debug\net5.0\atividadeAssincrona4.genruntimeconfig.cache
